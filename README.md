@@ -1,10 +1,10 @@
-# vkot_doorbell_app
+# VKOT Doorbell app
 
-A new Flutter project.
+Base Flutter project for the app (web & mobile app).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for now, and is meant for internal use.
 
 A few resources to get you started if this is your first Flutter project:
 
